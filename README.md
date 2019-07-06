@@ -9,3 +9,6 @@ One way how to run:
   <li>python -m SimpleHTTPServer 8888</li>
   <li>http://localhost:8888/city.html</li>
 </ol>
+
+<img src="doc/images/city7.png">
+<img src="doc/images/city8.png">
